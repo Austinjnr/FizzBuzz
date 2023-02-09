@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austinjnr/FizzBuzz.git"
+  },
+  "keywords": [
+    "for",
+    "if",
+    "else-if"
+  ],
+  "author": "Austin Obonyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austinjnr/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/Austinjnr/FizzBuzz#readme"
+}
