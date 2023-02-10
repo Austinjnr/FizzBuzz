@@ -2,7 +2,7 @@
 This website was built using vanilla JavaScript
 
 # Description
-This a short JavaScript program that prints each number from 1 to 100 on a new line and for each multiple of 3, prints "Fizz" instead of the number while each multiple of 5, prints "Buzz" instead of the number.   For numbers which are multiples of both 3 and 5, it prints "FizzBuzz" instead of the number.Access the web application via <a href ="https://fizz-buzz-austinjnr.vercel.app/">this link.</a>
+This a short JavaScript program that prints each number from 1 to 100 on a new line and for each multiple of 3, prints "Fizz" instead of the number while each multiple of 5, prints "Buzz" instead of the number.   For numbers which are multiples of both 3 and 5, it prints "FizzBuzz" instead of the number.Access the web application via <a href ="https://fizz-buzz-theta.vercel.app/">this link.</a>
 
 # Built with 
 This application was built with the following technologies:
